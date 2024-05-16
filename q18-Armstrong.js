@@ -1,4 +1,4 @@
-//Armstrong 
+//armstrong 
 
 let num =153;
 let arm =0;

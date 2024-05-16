@@ -34,14 +34,14 @@ console.log("prime")
 }*/
 
  let num;
- let i=2;
- let j=10;
+ let input=10;
+     for(num=1;num<input;num++)
+     if(num%2==0)
+    {
+            console.log(num)
+    }
  
- for(num=1;num<10;num++)
  
-   //for(i=2;i<j;i++)
- ///if()
- console.log(num)
    /* {
         if(num1 %i ==0)
         break;
